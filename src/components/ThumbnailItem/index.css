@@ -1,0 +1,15 @@
+.image-url {
+  height: 40px;
+  width: 40px;
+  border-radius: 8px;
+}
+.list-item {
+  list-style-type: none;
+  margin-right: 15px;
+}
+.active-image {
+  opacity: 1;
+}
+.non-active-image {
+  opacity: 0.5;
+}

@@ -1,0 +1,29 @@
+.container {
+  padding: 20px;
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 300px;
+  width: 500px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 700;
+  color: #323f4b;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+  color: #adadad;
+}
+.list-container {
+  display: flex;
+}
